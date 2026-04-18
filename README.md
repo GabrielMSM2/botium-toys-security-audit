@@ -83,4 +83,4 @@ The scenario, company, and all associated data are entirely fictional and were p
 
 ## 👤 Author
 
-Made by [your name] · [LinkedIn profile] · [year]
+Made by Gabriel Moreira Souto Mayor · (https://www.linkedin.com/in/gabrielmayor/) · 2026
